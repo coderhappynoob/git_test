@@ -4,5 +4,6 @@ public class UserController {
     public static void main(String[] args) {
         System.out.println("test");
         System.out.println("user");
+        System.out.println("github");
     }
 }
