@@ -5,5 +5,6 @@ public class UserController {
         System.out.println("test");
         System.out.println("user");
         System.out.println("github");
+        System.out.println("LWB的冲突测试");
     }
 }
